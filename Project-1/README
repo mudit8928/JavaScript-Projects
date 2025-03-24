@@ -1,5 +1,2 @@
 ** Background Color Toggle Project **
-This project features a simple interactive webpage with four buttons. Each button allows the user to change the background color of the entire page 
-to a different color. When a button is clicked, the background color changes accordingly. Clicking the same button again resets the background to 
-its original color. Only one color can be active at a time, ensuring a smooth and user-friendly toggle experience. This project demonstrates basic 
-JavaScript DOM manipulation, event handling, and dynamic styling.
+This project features a simple interactive webpage with four buttons. Each button allows the user to change the background color of the entire page to a different color. When a button is clicked, the background color changes accordingly. Clicking the same button again resets the background to its original color. Only one color can be active at a time, ensuring a smooth and user-friendly toggle experience. This project demonstrates basic JavaScript DOM manipulation, event handling, and dynamic styling.
