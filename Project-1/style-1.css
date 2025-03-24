@@ -1,0 +1,53 @@
+*{
+    color: #fff;
+    background-color: #111;
+}
+html,body {
+    width: 100%;
+    height: 100%;
+    position: relative;
+}
+.head {
+    text-align: center;
+    background-color: transparent;
+}
+#main {
+    top: 25%;
+    left: 25%;
+    width: 50%;
+    height: 50%;
+    padding: 10px;
+    display: flex;
+    position: absolute;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    /* background-color: red; */
+    background-color: transparent;
+}
+#btn-cont {
+    gap: 10px;
+    width: 80%;
+    height: 50%;
+    margin: 10px;
+    display: flex;
+    background-color: transparent;
+}
+.btn {
+    width: 100%;
+    border-radius: 10px;
+    border: 2px solid #fff;
+    /* background-color: blue; */
+}
+#btn-1 {
+    background-color: rgb(105, 105, 105);
+}
+#btn-2 {
+    background-color: rgb(255, 250, 250);
+}
+#btn-3 {
+    background-color: blue;
+}
+#btn-4 {
+    background-color: yellow;
+}
