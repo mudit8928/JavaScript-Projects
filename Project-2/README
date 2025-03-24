@@ -1,0 +1,1 @@
+A simple BMI Calculator built with HTML, CSS, and JavaScript. Users can enter their height and weight to calculate their Body Mass Index (BMI). The app validates the input, prevents unrealistic values, and provides instant feedback. Clean UI and responsive design make it easy to use on any device.
